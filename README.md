@@ -33,11 +33,11 @@ Operational artifacts I've built or templated from real-world experience:
 - Incident Management Runbooks
 (https://github.com/ScottBoehler/ScottBoehler/blob/main/Incident_Management_Runbook.md)
 - Change Management Process Templates
-https://github.com/ScottBoehler/ScottBoehler/blob/main/Change_Management_Process.md
+(https://github.com/ScottBoehler/ScottBoehler/blob/main/Change_Management_Process.md)
 - Service Delivery Metrics & KPI Frameworks
-https://github.com/ScottBoehler/ScottBoehler/blob/main/Service_Delivery_Metrics_KPI_Framework.md
+(https://github.com/ScottBoehler/ScottBoehler/blob/main/Service_Delivery_Metrics_KPI_Framework.md)
 - SLA Design References
-https://github.com/ScottBoehler/ScottBoehler/blob/main/SLA_Design_Reference.md
+(https://github.com/ScottBoehler/ScottBoehler/blob/main/SLA_Design_Reference.md)
 
 ---
 
