@@ -42,6 +42,8 @@ Operational artifacts I've built or templated from real-world experience:
 (https://github.com/ScottBoehler/ScottBoehler/blob/main/Statement_of_Work_Best_Practices.md)
 - MSP Onboarding & IT Cutover Runbook Template
 (https://github.com/ScottBoehler/ScottBoehler/blob/main/MSP_Onboarding_Runbook_Template.md)
+- Root Cause Analysis Field Guide
+(https://github.com/ScottBoehler/ScottBoehler/blob/main/RCA_Field_Guide.md)
 
 ---
 
