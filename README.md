@@ -44,6 +44,8 @@ Operational artifacts I've built or templated from real-world experience:
 (https://github.com/ScottBoehler/ScottBoehler/blob/main/MSP_Onboarding_Runbook_Template.md)
 - Root Cause Analysis Field Guide
 (https://github.com/ScottBoehler/ScottBoehler/blob/main/RCA_Field_Guide.md)
+- Service Review & Executive Business Review Guide
+(https://github.com/ScottBoehler/ScottBoehler/blob/main/Service_Review_EBR_Guide.md)
 
 ---
 
