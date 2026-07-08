@@ -46,6 +46,8 @@ Operational artifacts I've built or templated from real-world experience:
 (https://github.com/ScottBoehler/ScottBoehler/blob/main/RCA_Field_Guide.md)
 - Service Review & Executive Business Review Guide
 (https://github.com/ScottBoehler/ScottBoehler/blob/main/Service_Review_EBR_Guide.md)
+- Vendor Management & Third-Party Performance Framework
+(https://github.com/ScottBoehler/ScottBoehler/blob/main/Vendor_Management_Framework.md)
 
 ---
 
