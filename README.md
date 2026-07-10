@@ -48,6 +48,8 @@ Operational artifacts I've built or templated from real-world experience:
 (https://github.com/ScottBoehler/ScottBoehler/blob/main/Service_Review_EBR_Guide.md)
 - Vendor Management & Third-Party Performance Framework
 (https://github.com/ScottBoehler/ScottBoehler/blob/main/Vendor_Management_Framework.md)
+- Greenfield Service Management Playbook (Standing up a service function from zero: process, tooling, vendor contracts, staffing)
+(https://github.com/ScottBoehler/ScottBoehler/blob/main/Greenfield_Service_Desk_Playbook.md)
 
 ---
 
