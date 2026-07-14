@@ -32,6 +32,26 @@ ITIL gives you the full menu, but a startup doesn't need the whole menu on day o
 
 Don't assume one support model fits everyone. Most infrastructure companies serving both business partners and end customers actually have two distinct populations with different needs — a supply-side partner who needs operational reliability and predictable reporting, and a demand-side customer who needs fast, unambiguous incident response. Map this out explicitly before you design SLAs. A single intake process with tiered SLAs is usually the right answer — two entirely separate desks is rarely worth the staffing cost at this stage.
 
+## If There's No Existing Provisioning/Automation Layer
+
+Some companies already have an internal platform handling infrastructure provisioning and diagnostics — in that case, your job is wiring the service layer into what exists, not rebuilding it. If nothing exists yet, especially for physical/bare-metal infrastructure, the category of tooling you're evaluating looks different from standard SaaS ITSM:
+
+- **Bare-metal provisioning automation** — Canonical MAAS, Tinkerbell, or Foreman to automate server imaging and configuration when a request is approved.
+- **Hardware monitoring & asset tracking** — Prometheus with Node Exporter or Zabbix for health monitoring, NetBox for IPAM/DCIM asset tracking, feeding auto-generated tickets when hardware fails.
+
+For any physical-infrastructure service desk, build the service catalog around the physical asset lifecycle, not just software requests:
+
+- **Provisioning** — OS install, RAID configuration, network/IP assignment
+- **Hardware failures** — disk, RAM, power supply, motherboard issues
+- **Network & out-of-band access** — IPMI/OOB access requests, firewall rules, bandwidth adjustments
+- **Decommissioning** — secure data destruction and reset before the asset returns to the available pool. Easy to overlook, but it's a real trust and compliance requirement, not an afterthought.
+
+Map your support tiers to how much of this is automated vs. physical:
+
+- **Tier 1 — Automated self-service**, if a provisioning API exists: request triggers imaging with no human involvement.
+- **Tier 2 — Remote technical triage**: BIOS errors, network misconfiguration, kernel-level issues — resolved without anyone touching hardware.
+- **Tier 3 — Physical/on-site intervention**: confirmed hardware failure requiring hands-on replacement, whether that's your own data center staff or a partner facility's team.
+
 ## Backend Vendors You'll Need — And How to Contract Them
 
 **The core categories:**
