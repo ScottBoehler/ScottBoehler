@@ -52,6 +52,9 @@ Operational artifacts I've built or templated from real-world experience:
 (https://github.com/ScottBoehler/ScottBoehler/blob/main/Greenfield_Service_Desk_Playbook.md)
 - Service Desk Process Design Document
 (https://github.com/ScottBoehler/ScottBoehler/blob/main/Service_Desk_Process_Design_Document.md)
+- ServiceNow Operations Guide	
+(https://github.com/ScottBoehler/ScottBoehler/blob/main/ServiceNow_Operations_Guide.md)
+
 
 ---
 
