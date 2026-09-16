@@ -42,8 +42,8 @@ Operational artifacts I've built or templated from real-world experience:
 (https://github.com/ScottBoehler/ScottBoehler/blob/main/Statement_of_Work_Best_Practices.md)
 - MSP Onboarding & IT Cutover Runbook Template
 (https://github.com/ScottBoehler/ScottBoehler/blob/main/MSP_Onboarding_Runbook_Template.md)
-- Root Cause Analysis Field Guide
-(https://github.com/ScottBoehler/ScottBoehler/blob/main/RCA_Field_Guide.md)
+- Problem Management & Root Cause Analysis Guide
+(https://github.com/ScottBoehler/ScottBoehler/blob/main/Problem_Management_RCA_Guide.md)
 - Service Review & Executive Business Review Guide
 (https://github.com/ScottBoehler/ScottBoehler/blob/main/Service_Review_EBR_Guide.md)
 - Vendor Management & Third-Party Performance Framework
