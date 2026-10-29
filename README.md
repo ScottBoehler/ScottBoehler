@@ -41,6 +41,7 @@ Operational artifacts I've built or templated from real-world experience:
 - [Service Review & Executive Business Review Guide](https://github.com/ScottBoehler/ScottBoehler/blob/main/Service_Review_EBR_Guide.md)
 - [Vendor Management & Third-Party Performance Framework](https://github.com/ScottBoehler/ScottBoehler/blob/main/Vendor_Management_Framework.md)
 - [Greenfield Service Management Playbook (Standing up a service function from zero: process, tooling, vendor contracts, staffing)](https://github.com/ScottBoehler/ScottBoehler/blob/main/Greenfield_Service_Desk_Playbook.md)
+- [Service Delivery Model Transition Guide (Companion to the Greenfield Playbook: deciding where support work should live, and moving it without hurting customers or the team)](https://github.com/ScottBoehler/ScottBoehler/blob/main/Service_Delivery_Model_Transition_Guide.md)
 - [Service Desk Process Design Document](https://github.com/ScottBoehler/ScottBoehler/blob/main/Service_Desk_Process_Design_Document.md)
 - [ServiceNow Operations Guide](https://github.com/ScottBoehler/ScottBoehler/blob/main/ServiceNow_Operations_Guide.md)
 - [Service Transition & New Customer Onboarding Playbook](https://github.com/ScottBoehler/ScottBoehler/blob/main/Service_Transition_Onboarding_Playbook.md)

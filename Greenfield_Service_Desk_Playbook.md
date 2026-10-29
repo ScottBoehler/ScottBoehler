@@ -135,6 +135,10 @@ Map your support tiers to how much of this is automated vs. physical:
 - **Days 60–90:** Tooling. Vendor selection and contracting, monitoring integration, on-call setup, knowledge base shell.
 - **Days 90–180:** Operationalize. Populate CMDB, write priority runbooks, formalize SLAs with real data, build the reporting dashboard, present the headcount case for the first hire.
 
+## What Comes After
+
+Once the function is running, the next question is usually where each type of work should live as volume, cost and coverage needs change. I cover that in the companion, the [Service Delivery Model Transition Guide](Service_Delivery_Model_Transition_Guide.md): deciding whether work stays with the core team, moves to a specialist group or outside partner, or is handled by automation, and moving it without hurting customers or the team.
+
 ---
 
 *This playbook reflects how I'd approach standing up a service management function with nothing in place — not a template to copy line-for-line, but the build order I'd defend in front of any leadership team asking why it's sequenced this way.*
